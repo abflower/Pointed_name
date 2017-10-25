@@ -3,7 +3,4 @@ This Python function takes a name as argument and returns the pointed version of
 
 It manages exceptions like:
 
-empty field
-one letter input only
-already pointed names
-double names (joined with - )
+empty field, one letter input only, already pointed names, double names (joined with - ).
